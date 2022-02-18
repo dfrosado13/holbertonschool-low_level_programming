@@ -26,10 +26,3 @@ int main(void)
        /* your code goes there */
    return (0);
 }
-
-// n could be positive XXXXXXX
-// n could be negative
-// n could be 0 XXXXXXX
-// == |= < > <= >=
-// if else 
-// while for
